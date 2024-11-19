@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Linqpratik\Linqpratik\bin\Debug\Linqpratik.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Linqpratik\Linqpratik\bin\Debug\Linqpratik.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Linqpratik\Linqpratik\bin\Debug\Linqpratik.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Linqpratik\Linqpratik\obj\Debug\Linqpratik.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Linqpratik\Linqpratik\obj\Debug\Linqpratik.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Linqpratik\Linqpratik\obj\Debug\Linqpratik.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Linqpratik\Linqpratik\obj\Debug\Linqpratik.pdb
